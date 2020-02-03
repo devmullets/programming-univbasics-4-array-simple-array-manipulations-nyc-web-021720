@@ -4,3 +4,5 @@ end
 
 def using_unshift(array, removeElement)
   array.unshift(removeElement)
+end
+
